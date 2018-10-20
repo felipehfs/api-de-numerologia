@@ -10,6 +10,6 @@ const getNumber = (req, res) => {
 }
 
 module.exports = app => {
-    app.get("/", (req, res) => res.send("Hello"))
+    app.get("/", (req, res) => res.sendFile("index.html"))
     app.post("/numbers", getNumber)
 }
