@@ -3,7 +3,8 @@ function getNumber(date) {
     const dayAndMonth = sumDigits(day + month)
     year = sumDigits(year)
     year = sumDigits(year)
-    return dayAndMonth + year
+    console.log()
+    return sumDigits(dayAndMonth + year)
 }
 
 const sumDigits = (digit) => { 
