@@ -1,3 +1,5 @@
+const numeros = require('./numeros.json')
+
 function getNumber(date) {
     let [day, month, year] = date.split("/").map(d => Number.parseInt(d))
     const dayAndMonth = sumDigits(day + month)
@@ -13,6 +15,10 @@ const sumDigits = (digit) => {
     .reduce((total, acum) => total + acum)
 }
 
+function getDescription(n) {
+    return numeros[n]
+}
 module.exports = {
-    getNumber
+    getNumber,
+    getDescription
 }

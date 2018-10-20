@@ -1,0 +1,70 @@
+{
+    "1": {
+        "pontosPositivos": ["individualidade", "espírito de liderança", 
+                "criatividade", "atividade", "ambição", "audácia", "ousadia", 
+                "autoconfiança", "positividade", "pioneirismo", "persistência",
+                 "coragem", "obstinação", "iniciativa e independência"],
+        "pontosNegativos": ["egocentrismo", "autoritarismo", "repressão", "fracasso"],
+        "missao": "Evitar ser egoísta e autoritário."
+    },
+    "2": {
+        "pontosPositivos": ["espírito de colaboração", "modéstia", "paciência",
+                "solidariedade", "receptividade", "atenção", "diplomacia", "emoção", 
+                "amabilidade", "tato", "companheirismo"],
+        "pontosNegativos": ["timidez", "medo", "indecisão", "dualidade", "dúvida", 
+            "dependência", "submissão", "passividade", "insegurança"],
+        "missao": "Evitar a dependência excessiva, desenvolver o espírito cooperativo"
+    },
+    "3": {
+        "pontosPositivos": ["otimismo", "bom gosto", "talento", "comunicação", "sociabilidade", 
+            "cordialidade", "entusiasmo e criatividade"],
+        "pontosNegativos": [ "exibicionismo", "superficialidade", "espírito fofoqueiro", "mentiras", 
+            "conflitos", "solidão", "ostentação", "exagero", "dispersão", "pessimismo e imaturidade"],
+        "missao": "Abrir-se para o mundo, ser criativo, procurar expressar-se"
+    },
+    "4": {
+        "pontosPositivos": [ "praticidade", "espírito construtor", "lealdade",
+             "organização", "disciplina", "ordem", "franqueza", "estabilidade", 
+             "cautela", "trabalho", "resistência", "confiança", "honestidade", 
+             "amor a tradição"],
+        "pontosNegativos": [ "rigidez", "conformismo", "avareza", "apego ao passado",
+             "crítica excessiva", "insegurança", "inflexibilidade"],
+        "missao": "Não se deixar oprimir pelo trabalho e pelas responsabilidades"
+    },
+    "6": {
+        "pontosPositivos": [ "espírito conciliador", "generosidade", "estabilidade", "idealismo", 
+            "preocupação com o lar, a comunidade", "companheirismo", "equilíbrio", "justiça"],
+        "pontosNegativos": ["acomodação", "espírito de mártir", "complicações no casamento", 
+            "cobranças excessivas", "ciúmes", "ressentimento", "dificuldade em aceitar a realidade"],
+        "missao": "Aprender a aceitar as coisas como são. Cuidar da relação sem ciúmes, buscar o equilíbrio antes da perfeição"
+    },
+    "7": {
+        "pontosPositivos": ["sabedoria", "tranquilidade", "introspecção, intuição", "poder de análise",
+             "meticulosidade", "lógica", "profundidade", "perfeccionismo", "autocontrole e investigação"],
+        "pontosNegativos": ["desligamento", "melancolia", "solidão", "perda do sentido da vida", 
+            "falta de objetivos", "auto-crítica", "excesso de exigência", "reclusão"],
+        "missao": "Refletir, buscando o saber dentro de si"
+    },
+    "8": {
+        "pontosPositivos": ["poder", "eficiência", "prestígio", "liderança", "organização", "sucesso",
+             "riqueza", "perspicácia", "saber", "compreensão", "autoridade", "justiça", "perseverança",
+              "auto-confiança e verdade"],
+        "pontosNegativos": ["ambição excessiva", "sede pelo poder", "materialismo desenfreado", "intolerância", 
+            "arrogância", "autoritarismo", "teimosia", "impaciência e desonestidade"],
+        "missao": "Usar corretamente o dinheiro e o poder, pautado no senso de justiça. Não negligenciar o dinheiro e as coisas materiais."
+    },
+    "9": {
+        "pontosPositivos": ["amor universal", "paciência", "tolerância", "fé", "generosidade"],
+        "pontosNegativos": [ "sacrifício", "fracasso", "solidão", "decepção", "fanatismo"],
+        "missao": "Ter em mente que a finalidade do ser humano é desenvolver o amor universal, a compreensão e a compaixão."
+    },
+    "11": {
+        "pontosPositivos": [ "idealismo", "intuição", "poderes extra-sensorial", "paciência", "misticismo", "simpatia", "humanitarismo"],
+        "pontosNegativos": ["fanatismo", "pragmatismo", "cinismo", "charlatanismo", "preguiça",
+             "desonestidade", "desorientação", "falsa superioridade", "mesquinhez"]
+    },
+    "22": {
+        "pontosPositivos": ["espírito empreendedor", "raciocínio lógico", "lealdade", "perspicácia", "otimismo e generosidade"],
+        "pontosNegativos": ["cinismo", "vaidade exagerada", "pessimismo", "não conclusão de seus projetos", "complexo de inferioridade"]
+    }
+}
